@@ -1,6 +1,6 @@
 
 
-# DevTown PYTHON AND MACHINE LEARNING BOOTCAMP
+# shapeAI_python_machine_learning
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> DevTown
 
